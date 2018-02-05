@@ -10,10 +10,6 @@ public class Main {
         System.out.println("Iveskite zodi");
         String zodis = sc.nextLine();
         int kiekis=0;
-
-
-
-
         boolean arSkaicius = false;
         try {
             Float.parseFloat("");
